@@ -50,5 +50,6 @@
 
 <h3 align="center">:heavy_check_mark:  Conclusão  :heavy_check_mark:</h3>
   <p align="center">
-    Este projeto é uma ferramenta essencial para meu desenvolvimento em Java, permitindo a prática e aplicação de conceitos aprendidos na Alura. Assim, consolidando meu             conhecimento e ganhando confiança no uso da linguagem para resolver problemas práticos.
+    Este projeto é uma ferramenta essencial para meu desenvolvimento em Java, permitindo a prática e aplicação de conceitos aprendidos na Alura. Assim, consolidando meu             conhecimento e ganhando confiança no uso da linguagem para resolver problemas práticos.<br>
+    Agradecemos seu interesse! Se gostou, deixe uma estrela! ⭐ Obrigado por acompanhar! 😃
   </p>

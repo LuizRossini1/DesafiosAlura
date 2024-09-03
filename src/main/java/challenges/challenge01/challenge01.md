@@ -1,29 +1,8 @@
-<h1 align="center">Estudo Desafio 03</h1>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/be690025-3d95-472a-8f9f-2fa8dbb50f78" alt="logo tecnologico">
-</p>
+<h1 align="center">Challenge 01</h1>
 
 <h3 align="center">:page_facing_up: Descrição :page_facing_up:</h3>
   <p align="center">
     Este aplicativo Java foi desenvolvido como parte de um desafio da Alura. Ele consome uma API de CEP, permitindo que o usuário insira um CEP e receba informações detalhadas em formato      JSON. O projeto utiliza conceitos de programação abordados ao longo do curso, como consumo de APIs e manipulação de dados em JSON.
-  </p>
-
-<h3 align="center">:joystick:  Tecnologias Utilizadas  :joystick:</h3>
-  <p align="center">
-    <img loading="lazy" src="https://img.shields.io/badge/java-17-blue"/>
-    <img loading="lazy" src="https://img.shields.io/badge/intelliJ-IDEA-purple"/>
-    <img loading="lazy" src="https://img.shields.io/badge/paradigma-POO-red"/>
-  </p>
-
-<h3 align="center">:medal_military:  Badges  :medal_military:</h3>
-  <p align="center">
-    <img loading="lazy" src="https://img.shields.io/badge/status-completed-green"/>
-    <img loading="lazy" src="https://img.shields.io/badge/content-for_study-blue"/>
-    <img loading="lazy" src="https://img.shields.io/github/issues/LuizRossini1/_estudo-screenmatch"/>
-    <img loading="lazy" src="https://img.shields.io/github/forks/LuizRossini1/_estudo-screenmatch"/>
-    <img loading="lazy" src="https://img.shields.io/github/license/LuizRossini1/_estudo-screenmatch"/>
-    <img loading="lazy" src="https://img.shields.io/github/stars/LuizRossini1/_estudo-screenmatch"/>
   </p>
 
 <h3 align="center">:computer: APIs e Bibliotecas :books:</h3>
@@ -76,16 +55,6 @@
   <p align="center">
     Formato String<br>
     <img src="https://github.com/user-attachments/assets/fe250523-3ecb-43e7-810e-68fe608c3afc" alt="2">
-  </p>
-
-<h3 align="center">:people_holding_hands:  Contribuidores  :people_holding_hands:</h3>
-  <p align="center">
-    <img loading="lazy" src="https://avatars.githubusercontent.com/u/157657321?v=4" width=100><br><sub>Luiz Rossini</sub>
-  </p>
-
-<h3 align="center">:balance_scale:  Licença  :balance_scale:</h3>
-  <p align="center">
-    Este projeto está sem licença específica.
   </p>
 
 <h3 align="center">:heavy_check_mark:  Conclusão  :heavy_check_mark:</h3>
